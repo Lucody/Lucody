@@ -57,9 +57,6 @@
 <p align="center">
   <a href="https://discordapp.com/users/760814380689653810" target="_blank">
     <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-6-1.png" alt="Discord">
-  <a href="https://github.com/Lucody" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
