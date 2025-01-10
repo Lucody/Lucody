@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, React, and Scala to build scalable and efficient applications.**
 
-- 🎯 My goal is to become a strong **Full Stack Developer**, mastering **TypeScript**, **React**, and **Next.js**, while contributing to new and emerging technologies.
+- 🎯 My goal is to become a strong **Full Stack Developer**, mastering **TypeScript**, **React**, and **Next.js**, while contributing to new and      emerging technologies.
 
 - 💬 Ask me about **Python, Rust, C, Machine Learning, and Data Science.**
 
