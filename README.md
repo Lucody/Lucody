@@ -9,14 +9,13 @@
 
 - 💬 Ask me about **Python, Rust, C, Machine Learning, and Data Science.**
 
-- ⚡ Fun fact: **I really like cats.**
+- ⚛️ Developing and maintaining applications as a Full Stack Developer in the Physics Lab.
 
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucody&show_icons=true&theme=radical" alt="Lucody's GitHub stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucody&theme=radical" alt="Lucody's GitHub streak" width="49%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucody&layout=compact&theme=radical" alt="Lucody's most used languages" width="49%"/>
